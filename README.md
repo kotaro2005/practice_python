@@ -1,6 +1,6 @@
 # 🐍 Python 練習リポジトリ
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
+
 ## 概要
 Python の学習過程で書いたコードをまとめています。
 基礎文法から始まり、ライブラリの使い方・小さなツール制作などを記録しています。
